@@ -59,6 +59,7 @@ function TransparentBlogCard({ image, title, description, action }) {
     "& .MuiTypography-root": {
       display: "flex",
       alignItems: "center",
+      
     },
 
     "& .material-icons, .material-icons-round,": {
